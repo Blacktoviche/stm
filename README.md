@@ -20,7 +20,7 @@ Backends are
    
 2- [stm-express-backend](https://github.com/blacktoviche/stm-express-backend)a backend uses the power of ExpressJS, jsonwebtoken and mongodb as database 
 
-Fronend are:
+Frontends are:
 
 1- [stm-web](https://github.com/blacktoviche/stm-web)is a single page web app using the power of ReactJS (including Redux), Bootstrap and ChartJS
 
