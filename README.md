@@ -16,14 +16,17 @@ Let's explain...
 Backends are 
 
 1- [stm-java-backend](https://github.com/blacktoviche/stm-java-backend)  a backend uses the power of spring boot, rest, jpa and spring security using jsonwebtoken for login etc..
-   the backend uses postgresql as database 
+   the backend uses postgresql as database
+   
 2- [stm-express-backend](https://github.com/blacktoviche/stm-express-backend)a backend uses the power of ExpressJS, jsonwebtoken and mongodb as database 
 
 Fronend are:
 
-1- [stm-web](https://github.com/blacktoviche/stm-web)is a single page web app using the power of ReactJS (including Redux), Bootstrap and ChartJS 
+1- [stm-web](https://github.com/blacktoviche/stm-web)is a single page web app using the power of ReactJS (including Redux), Bootstrap and ChartJS
+
 2- [stm-desktop](https://github.com/blacktoviche/stm-desktop)is desktop app using the power of Electron It's ( stm-web ) with some certain modefication
 to fit into Electron 
+
 3- [StmApp](https://github.com/blacktoviche/StmApp)is mobile app ( Android & iOS ) using the power of React Native ( including redux ) and Nativebase ( ReactNative components )
 
 Most of the code is shared between the three frontends for the web & desktop versions it's almost the same
